@@ -8,4 +8,6 @@
     <string name="hint_txt_view_description_new_expense_activity">descripción</string>
     <string name="hint_main_txt_view_income">Ingreso actual</string>
     <string name="text_btn_add_new_expense_activity">agregar</string>
+    <string name="hint_item_list_expense_txt_description">descripcion</string>
+    <string name="hint_item_list_expense_txt_expense">$</string>
 </resources>
