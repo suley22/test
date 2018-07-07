@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">expenses</string>
+    <string name="main_btnconfig">Configurar</string>
+    <string name="parameter_config__btnsave">Guardar</string>
+    <string name="hint_txt_income_parameter_config_activity">Ingresos</string>
+    <string name="title_activity_new_expense_activity">Gasto</string>
+    <string name="hint_txt_view_expense_new_expense_activity">monto</string>
+    <string name="hint_txt_view_description_new_expense_activity">descripción</string>
+    <string name="hint_main_txt_view_income">Ingreso actual</string>
+    <string name="text_btn_add_new_expense_activity">agregar</string>
+</resources>
